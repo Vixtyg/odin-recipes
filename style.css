@@ -1,0 +1,21 @@
+body{
+    background:purple;
+    color:red;
+}
+a{
+    color:pink;
+}
+img{
+    border: 10px dashed black;
+    margin: 0 auto;
+    display:block;
+
+}
+*{
+    text-align: center;
+}
+
+ol,
+ul{
+    list-style-position:inside;
+}
